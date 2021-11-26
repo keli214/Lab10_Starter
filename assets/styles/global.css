@@ -114,3 +114,8 @@ main>section {
   grid-template-areas: 'slider icon';
   grid-template-columns: 80% 15%;
 }
+
+button.pretty {
+  background-color: aliceblue;
+  border-radius: 2vh;
+}
